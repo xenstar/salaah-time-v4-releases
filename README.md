@@ -4,10 +4,10 @@
 
 # 🕌 Salaah Time V4
 
-### Don't just know it is time to pray. Make sure you follow through.
+### Plan your day around Salah, not Salah around your day.
 
-**Most prayer apps send one notification and disappear.**<br>
-**Salaah Time V4 keeps reminding you until you respond.**
+**Most prayer apps announce the time and disappear.**<br>
+**Salaah Time V4 helps you protect each Salah, even on your busiest days.**
 
 [![Download for Windows](https://img.shields.io/badge/⬇_DOWNLOAD_FOR_WINDOWS-Get_Salaah_Time_V4-0F766E?style=for-the-badge)](https://github.com/xenstar/salaah-time-v4-releases/releases/latest)
 
@@ -18,7 +18,7 @@
 ![Private](https://img.shields.io/badge/Your%20Settings-Stay%20Private-374151?style=flat-square)
 ![Persistent Reminders](https://img.shields.io/badge/Reminders-Persistent-C2410C?style=flat-square)
 
-**Prayer times • Persistent reminders • Athan • Prayer Lock • Qibla • Duas • Hijri calendar • Ramadan tools**
+**Muslim productivity • Salah planner • Persistent reminders • Adhan (Athan) • Prayer Lock • Qibla • Duas • Ramadan tools**
 
 </div>
 
@@ -26,65 +26,65 @@
 
 ## 💚 About Salaah Time V4
 
-Salaah Time V4 is a modern **Muslim prayer time app for Windows** created for one purpose: helping busy Muslims protect their Salah during a screen-filled day.
+Salaah Time V4 is a **Muslim productivity app and Salah companion for Windows**, built to help Muslims organize work, study, meetings, and daily responsibilities around the five prayers.
 
-We believe a prayer app should do more than display times or send a notification that vanishes. It should remain calm when you are on schedule, become persistent when prayer needs your attention, and give you enough control to fit your work, location, calculation preference, and daily routine.
+Whether you already pray consistently or are trying to rebuild the habit, the intention is the same: you want to pray on time, but a busy day can quietly carry you from one task to the next. Salaah Time V4 supports that intention without guilt or judgment.
 
-That is why Salaah Time V4 brings together a **persistent Salah reminder**, **Athan app**, **prayer countdown**, **Prayer Lock**, **Qibla direction**, **Dua collection**, **Hijri calendar**, and **Ramadan timetable** in one focused desktop companion.
+It brings together a **persistent Salah reminder**, **Muslim productivity companion**, **Adhan app**, **prayer countdown**, **Prayer Lock**, **Qibla direction**, **Dua collection**, **Hijri calendar**, and **Ramadan timetable** in one focused desktop experience.
 
-> **Our mission:** make it easier to remember Salah, harder to postpone it, and simpler to build prayer into every workday.
+> **Our mission:** help Muslims build the day around Salah, protect prayer from distraction, and bring more intention and barakah into the hours between each prayer.
 
-## 🔔 The reminder that waits for you
+## 🔔 When "five more minutes" becomes too long
 
-You hear the reminder. You think, _"I will pray in five minutes."_ Then work, meetings, messages, or one more task take over.
+The time for Salah arrives. You think, _"I will pray in five minutes."_ Then work, meetings, messages, or one more task takes over. It is a familiar struggle: the intention is sincere, but the dunya keeps asking for one more minute.
 
 That is the problem Salaah Time V4 is built to solve.
 
-When Salah time arrives, the reminder stays active until you make a conscious choice:
+When it is time for Salah, the reminder stays present until you make a conscious choice:
 
-- ✅ **I have prayed** - complete the reminder
-- ⏰ **Snooze** - remind me again at a practical time
-- 🔁 **Keep reminding me** - do not let this Salah disappear into the notification center
-- 🔒 **Prayer Lock** - use a stronger interruption when you need extra discipline
+- ✅ **I have prayed, Alhamdulillah** - acknowledge the Salah
+- ⏰ **Remind me again** - choose a practical snooze before the prayer window closes
+- 🔁 **Keep this Salah visible** - do not let it disappear into the notification center
+- 🔒 **Prayer Lock** - bring Salah in front of the distractions when you need stronger support
 
-> ### Other apps remind you that it is time. Salaah Time V4 helps you stop postponing it.
+> ### Other apps tell you the prayer time. Salaah Time V4 helps you answer it.
 
 ## ⚡ Why it feels different
 
-| Typical prayer app                | Salaah Time V4                                         |
-| --------------------------------- | ------------------------------------------------------ |
-| Sends one notification            | Keeps the reminder active until you respond            |
-| Easy to dismiss and forget        | Offers **I have prayed**, snooze, and repeat reminders |
-| Same reminder for every Salah     | Customize each prayer individually                     |
-| Missed after sleep or hibernation | Recovers important reminders when your computer wakes  |
-| Must open the app to check        | Floating countdown keeps the next prayer visible       |
-| Basic time list                   | Daily, monthly, and yearly prayer schedules            |
-| Internet may be required          | Essential prayer features work offline                 |
+| Typical prayer app                | Salaah Time V4                                                |
+| --------------------------------- | ------------------------------------------------------------- |
+| Announces the prayer time         | Helps you act before the prayer window passes                 |
+| Sends one notification            | Keeps the Salah reminder present until you respond            |
+| Easy to dismiss and forget        | Offers acknowledgement, smart snooze, and repeat reminders    |
+| Same reminder for every Salah     | Customize the support you receive for each Salah              |
+| Missed after sleep or hibernation | Recovers important reminders when your computer wakes         |
+| Must open the app to check        | Keeps the next Salah visible with a floating countdown        |
+| Basic time list                   | Helps plan your day with daily, monthly, and yearly schedules |
 
 ## ✨ Everything included
 
-### 🕋 Never lose track of Salah
+### 🕋 Protect the five daily prayers
 
 - Persistent reminders before and after each prayer
 - Individual settings for Fajr, Dhuhr, Asr, Maghrib, Isha, and Jummah
-- Smart snooze choices based on how much prayer time remains
+- Smart snooze choices based on how much time remains to pray
 - Repeat reminder sounds and stronger reminder stages
 - Recovery after sleep, hibernation, or timezone changes
 - Pause reminders temporarily from the system tray
 - Meeting-aware behavior to prevent badly timed interruptions
 
-### 🔊 Athan and reminder sounds
+### 🔊 Adhan and reminder sounds
 
-- Built-in Athan at prayer time
-- Turn Athan on or off for each prayer
-- Choose separate Athan and reminder volumes
+- Built-in Adhan at prayer time
+- Turn the Adhan on or off for each prayer
+- Choose separate Adhan and reminder volumes
 - Select from multiple reminder sounds
 - Preview sounds before choosing
-- Quickly mute Athan from the tray
+- Quickly mute the Adhan from the tray
 
 ### 🔒 Prayer Lock
 
-Need more than a small notification? Enable Prayer Lock for a stronger, focused reminder that brings Salah in front of the distractions on your screen.
+Need more than a small notification? Enable Prayer Lock for a focused reminder that brings Salah in front of the distractions on your screen. It is there to support your intention, not judge your struggle.
 
 - Prayer Lock overlay
 - Bring Salaah Time to the front
@@ -133,13 +133,17 @@ Need more than a small notification? Enable Prayer Lock for a stronger, focused 
 - Backup and restore your settings
 - Built-in update notifications
 
-## 🎯 Built for people with busy screens
+## 🎯 Muslim productivity, centered on Salah
 
-Salaah Time V4 is for Muslims whose workday can swallow hours without warning:
+Productivity is not only about completing more tasks. For a Muslim, a good day also means protecting what matters most while fulfilling work, study, family, and other responsibilities.
+
+Salaah Time V4 is built for Muslims whose screen-filled day can swallow hours without warning:
 
 **Remote workers • Founders • Office professionals • Developers • Designers • Students • Creators • Freelancers**
 
-No social feed. No browser tab to keep open. No subscription required. Just a focused desktop companion that keeps Salah visible when life becomes busy.
+Use the prayer countdown to plan focused work between prayers. Let the reminders create natural stopping points. Keep the next Salah visible while you work. Move through the day with purpose instead of realizing too late that another prayer window is nearly gone.
+
+No social feed. No browser tab to keep open. No subscription required. Just an Islamic productivity companion that helps work and worship live in the same schedule.
 
 ## 🚀 Download Salaah Time V4
 
@@ -157,29 +161,31 @@ No social feed. No browser tab to keep open. No subscription required. Just a fo
 2. Download **`Salaah-Time-V4-<version>.exe`**.
 3. Run the installer.
 4. Choose your location and reminder preferences.
-5. Let Salaah Time V4 keep watch over your prayer schedule.
+5. Let Salaah Time V4 help you build your day around Salah.
 
 > macOS and Linux builds are planned for future public releases. The current public download is for Windows.
 
-## 💚 Your prayer companion, your choices
+## 💚 Support without judgment
 
-No account. No subscription. Essential prayer times, Athan, Qibla, Duas, and calendar features work offline, and your preferences stay on your computer.
+Some Muslims are protecting a strong prayer routine. Others are returning to Salah, struggling with consistency, or trying to pray more often within the proper time. Salaah Time V4 is made for all of them.
 
-You decide how early reminders appear, how persistent they should be, which prayers play the Athan, whether Prayer Lock is enabled, and which sounds and daily content you want.
+No account. No subscription. Essential prayer times, Adhan, Qibla, Duas, and calendar features work offline, and your preferences stay on your computer.
+
+You decide how early reminders appear, how persistent they should be, which prayers play the Adhan, whether Prayer Lock is enabled, and which sounds and daily Islamic content you want.
 
 ## ❓ Frequently asked questions
 
 <details>
 <summary><strong>Does it keep reminding me until I pray?</strong></summary>
 
-The reminder remains active until you acknowledge it, snooze it, or choose another available action. Salaah Time V4 cannot verify worship, but it can make the reminder much harder to forget.
+The reminder remains active until you acknowledge it, snooze it, or choose another available action. Salaah Time V4 cannot verify worship, but it can help keep the Salah present until you respond.
 
 </details>
 
 <details>
 <summary><strong>Can I turn off Prayer Lock or persistent reminders?</strong></summary>
 
-Yes. Reminder timing, Prayer Lock, fullscreen alerts, sounds, Athan, flashing, and window behavior are configurable.
+Yes. Reminder timing, Prayer Lock, fullscreen alerts, sounds, Adhan, flashing, and window behavior are configurable. You choose the level of support that fits your routine.
 
 </details>
 
@@ -201,11 +207,11 @@ Yes. You can select the calculation method, Asr madhab, high-latitude rule, loca
 
 <div align="center">
 
-## 🕌 Your next Salah deserves more than a notification
+## 🕌 Let your day make room for Salah
 
 [![Get Salaah Time V4](https://img.shields.io/badge/GET_SALAAH_TIME_V4-Download_Now-C79A36?style=for-the-badge)](https://github.com/xenstar/salaah-time-v4-releases/releases/latest)
 
-**Stay aware. Stop postponing. Protect your Salah.**
+**Plan with purpose. Work with focus. Protect your Salah.**
 
 <sub>Salaah Time V4 is an independent modern prayer-time application and is not affiliated with the original developer of salaattime.com.</sub>
 
