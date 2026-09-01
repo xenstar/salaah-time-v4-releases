@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/salaah-time-v4-icon.png" width="128" alt="Salaah Time V4 teal and gold app icon">
+
 # 🕌 Salaah Time V4
 
 ### Don't just know it is time to pray. Make sure you follow through.
@@ -14,12 +16,23 @@
 ![Works Offline](https://img.shields.io/badge/Works-Offline-166534?style=flat-square)
 ![No Subscription](https://img.shields.io/badge/Subscription-Not%20Required-7C3AED?style=flat-square)
 ![Private](https://img.shields.io/badge/Your%20Settings-Stay%20Private-374151?style=flat-square)
+![Persistent Reminders](https://img.shields.io/badge/Reminders-Persistent-C2410C?style=flat-square)
 
 **Prayer times • Persistent reminders • Athan • Prayer Lock • Qibla • Duas • Hijri calendar • Ramadan tools**
 
 </div>
 
 ---
+
+## 💚 About Salaah Time V4
+
+Salaah Time V4 is a modern **Muslim prayer time app for Windows** created for one purpose: helping busy Muslims protect their Salah during a screen-filled day.
+
+We believe a prayer app should do more than display times or send a notification that vanishes. It should remain calm when you are on schedule, become persistent when prayer needs your attention, and give you enough control to fit your work, location, calculation preference, and daily routine.
+
+That is why Salaah Time V4 brings together a **persistent Salah reminder**, **Athan app**, **prayer countdown**, **Prayer Lock**, **Qibla direction**, **Dua collection**, **Hijri calendar**, and **Ramadan timetable** in one focused desktop companion.
+
+> **Our mission:** make it easier to remember Salah, harder to postpone it, and simpler to build prayer into every workday.
 
 ## 🔔 The reminder that waits for you
 
